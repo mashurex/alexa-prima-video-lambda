@@ -1,0 +1,18 @@
+{
+  "aws": {
+    "accessKey": "AWS Access Key",
+    "secretKey": "AWS Secret Key",
+    "advertisingKey": "AWS Advertising Key"
+  },
+  "alexa": {
+    "allowedAppId": "amzn1.echo-sdk-ams.app.[specific app ID]"
+  },
+  "search": {
+    "movies": {
+      "browseNodeId": "2858905011"
+    },
+    "tv": {
+      "browseNodeId": "2864549011"
+    }
+  }
+}
